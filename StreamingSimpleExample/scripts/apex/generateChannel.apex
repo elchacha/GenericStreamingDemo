@@ -1,0 +1,1 @@
+insert new StreamingChannel(Name='/u/genericStreamingChannel',Description='simple exemple de generic streaming channel');
